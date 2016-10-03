@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Getting Started'/>
+        <page name='The Basics'/>
+        <page name='Constants and Variables'/>
+        <page name='Data Types'/>
+        <page name='More on Strings'/>
+        <page name='Operators'/>
+        <page name='Collections'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Optionals'/>
+        <page name='Structs'/>
+        <page name='Enumerations'/>
+        <page name='Classes'/>
+        <page name='OOP'/>
+        <page name='Protocols'/>
+        <page name='Delegates'/>
+    </pages>
+</playground>
